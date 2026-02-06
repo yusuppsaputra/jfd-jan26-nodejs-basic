@@ -19,3 +19,7 @@ langkah - langkah mengirim source code ke github :
 langkah - langkah menghubungkan repo baru di lokal & server github
 1. git init => mendaftarkan repo lokal kita sebagai repo yang sudah memakai sistem git
 2. git add . => titik artinya semua file
+3. git commit -m( terserah )
+4. git branch -M main
+5. git remote add origin htpps----
+6. git push -u origin main
